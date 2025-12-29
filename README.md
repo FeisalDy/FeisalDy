@@ -11,7 +11,7 @@ Nice to meet you nya~~
 ![](https://github-readme-stats.vercel.app/api?username=FeisalDy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FeisalDy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FeisalDy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FeisalDy&theme=default)
 ---
 [![](https://visitcount.itsvg.in/api?id=FeisalDy&icon=0&color=0)](https://visitcount.itsvg.in)
 
